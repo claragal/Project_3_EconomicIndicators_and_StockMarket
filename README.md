@@ -4,17 +4,17 @@ With the goal of practicing the use of APIs and web scraping, as well as data cl
 
 The project involves analyzing the impact of various economic indicators on the U.S. stock market, specifically focusing on 11 selected ETFs:
 
-SPY : S&P 500
-XLK: Technology Select Sector SPDR Fund
-XLV: Health Care Select Sector SPDR Fund
-XLF: Financial Select Sector SPDR Fund
-XLY: Consumer Discretionary Select Sector SPDR Fund
-XLP: Consumer Staples Select Sector SPDR Fund
-XLE: Energy Select Sector SPDR Fund
-XLI: Industrial Select Sector SPDR Fund
-XLB: Materials Select Sector SPDR Fund
-XLU: Utilities Select Sector SPDR Fund
-XLRE: Real Estate Select Sector SPDR Fund
+-  SPY : S&P 500
+-  XLK: Technology Select Sector SPDR Fund
+-  XLV: Health Care Select Sector SPDR Fund
+-  XLF: Financial Select Sector SPDR Fund
+-  XLY: Consumer Discretionary Select Sector SPDR Fund
+-  XLP: Consumer Staples Select Sector SPDR Fund
+-  XLE: Energy Select Sector SPDR Fund
+-  XLI: Industrial Select Sector SPDR Fund
+-  XLB: Materials Select Sector SPDR Fund
+-  XLU: Utilities Select Sector SPDR Fund
+-  XLRE: Real Estate Select Sector SPDR Fund
 
 To accomplish this, we used the APIs of the U.S. Federal Reserve and Yahoo Finance.
 
