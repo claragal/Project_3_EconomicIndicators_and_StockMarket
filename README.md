@@ -21,22 +21,22 @@ To accomplish this, we used the APIs of the U.S. Federal Reserve and Yahoo Finan
 Initial Hypotheses:
 
 1. Impact of Economic Growth on Stock Market Returns
-High GDP growth rates are positively correlated with stock market returns, while low or negative GDP growth rates correlate with stock market declines.
+-  High GDP growth rates are positively correlated with stock market returns, while low or negative GDP growth rates correlate with stock market declines.
 
 2. Inflation and Stock Market Valuation
-Periods of high inflation are associated with lower stock market returns due to decreased purchasing power and increased input costs.
+-  Periods of high inflation are associated with lower stock market returns due to decreased purchasing power and increased input costs.
 
 3. Interest Rates and Stock Market Movements
-Rising interest rates are negatively correlated with stock market performance, as higher borrowing costs reduce corporate profits and consumer spending.
+-  Rising interest rates are negatively correlated with stock market performance, as higher borrowing costs reduce corporate profits and consumer spending.
 
 4. Unemployment and Market Sentiment
-High unemployment rates are associated with bearish stock market trends, as they reflect economic slowdown and reduced consumer spending.
+-  High unemployment rates are associated with bearish stock market trends, as they reflect economic slowdown and reduced consumer spending.
 
 5. Consumer Confidence and Stock Market Returns
 Higher Consumer Confidence Index (CCI) values are positively correlated with stock market returns, as optimism leads to higher consumer spending and investment.
 
 6. Industrial Production and Stock Market Cycles
-Increases in industrial production rates are positively correlated with stock market returns, while declines are correlated with bearish market trends.
+-  Increases in industrial production rates are positively correlated with stock market returns, while declines are correlated with bearish market trends.
 
 PROYECT CONCLUSIONS
 1. GDP Growth Impact on Market Returns
